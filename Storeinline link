@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BMA STORE ONLINE</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: url('https://i.redd.it/4pz41uqrle6z.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: white;
+            text-align: center;
+        }
+        .header {
+            padding: 20px;
+            font-size: 24px;
+            font-weight: bold;
+        }
+        .grid {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            padding: 20px;
+        }
+        .item {
+            background: #222;
+            margin: 10px;
+            padding: 15px;
+            border-radius: 10px;
+            width: 200px;
+            text-align: center;
+        }
+        .item img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+        }
+        .price {
+            font-size: 20px;
+            font-weight: bold;
+            color: #FFD700;
+        }
+    </style>
+</head>
+<body>
+        <div class="header">BMA STORE ONLINE</div>
+    <div class="grid">
+        <div class="item">
+            <img src="https://sadesign.ai/pictures/picfullsizes/2024/12/29/gjr1735466394.jpg" alt="CapCut Pro">
+            <div>CapCut Pro</div>
+            <div class="price">Prix: 220DH</div>
+        </div>
+        <div class="item">
+            <img src="https://img.clevup.in/60613/1697988234594_10801080SellingSoftware.jpeg?width=600&format=webp" alt="Canva Pro">
+            <div>Canva Pro</div>
+            <div class="price">Prix: 50DH</div>
+        </div>
+        <div class="item">
+            <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2669320/capsule_616x353.jpg?t=1739527291" alt="EA Sports FC 25">
+            <div>EA Sports FC 25 (PC)</div>
+            <div class="price">220DH</div>
+        </div>
+        <div class="item">
+            <img src="https://cdn.playmaroc.com/wp-content/uploads/2016/11/186.jpg" alt="GTA V Premium">
+            <div>GTA V Premium Edition (PC)</div>
+            <div class="price">Prix: 200DH</div>
+        </div>
+    </div>
+    <footer>
+        <p>Pour nous contacter : <a href="mailto:martinezboss22@gmail.com" style="color: #FFD700;">martinezboss22@gmail.com</a></p>
+
+          
+</body>
+</html>

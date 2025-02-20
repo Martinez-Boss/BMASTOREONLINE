@@ -1,2 +1,0 @@
-# BMASTOREONLINE
-storeonline
